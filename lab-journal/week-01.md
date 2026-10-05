@@ -27,7 +27,7 @@ The reason this was an issue so persistent was because I am currently using the 
 I would take a closer look into compiler errors that hind at what the issue is.
 
 **Artifacts:**
-- [Array Pointers]     (../c-exercises/week-01/array_pointers.c)
+- [Array Pointers]     (c-exercises/week-01/array_pointers.c)
 - [Int Pointer]        (../c-exercises/week-01/int_pointer.c)
 - [Function Argument]  (../c-exercises/week-01/func_arg.c)
 - [CString-Array]      (../c-exercises/week-01/cstring_array.c)
