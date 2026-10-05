@@ -34,3 +34,31 @@ I would take a closer look into compiler errors that hind at what the issue is.
 - [Int Pointer](../c-exercises/week-01/int_pointer.c)
 - [Function Argument](../c-exercises/week-01/func_arg.c)
 - [CString-Array](../c-exercises/week-01/cstring_array.c)
+
+
+
+# Session 2 — 2026-10-05
+
+**Goal:** 
+Finished environment setup
+
+**What I built:**
+Finished setting up environment for note taking.
+Setup Obsidian for taking notes as .md and uploading them to repo
+
+**What broke:**
+- Didn't get to Arduino/Ohm's Law as planned
+
+**What I learned:**
+- Environment setup takes longer than expected — worth doing right once
+
+**What I'd do differently:**
+- Front-load tooling in week 1 so weeks 2-4 are pure learning
+
+**Artifacts:**
+[None, mostly setting configurations]
+
+
+
+
+
