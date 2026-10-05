@@ -1,5 +1,7 @@
 ## Week 1 — 10/04/2026
 
+Session 1 - 10/04/2026
+
 **Goal:** 
 Today I wanted to get a better understanding of the basics for Clang.
 From basic syntax like loops and structs, then working with memory addresses. 
