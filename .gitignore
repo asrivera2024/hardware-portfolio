@@ -16,11 +16,24 @@
 *.gch
 *.pch
 
+# Editor/OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ESP-IDF specific
+sdkconfig.old
+
 # Libraries
 *.lib
 *.a
 *.la
 *.lo
+
+# Build folders
+build/
+dist/
+
 
 # Shared objects (inc. Windows DLLs)
 *.dll
