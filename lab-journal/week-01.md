@@ -9,11 +9,11 @@ Like pointers, dereferencing, malloc()/free() and making 2D jagged arrays with d
 
 **What I built:**
 A small collection of c code in files relating to the basics
- array_pointers.c
- func_arg.c
- hello_world.c
- int_pointer.c
- struct_size.c
+array_pointers.c
+func_arg.c
+hello_world.c
+int_pointer.c
+struct_size.c
 
 **What broke:**
 There was an error that kept occurring when I tried to print a pointers address with %p.
