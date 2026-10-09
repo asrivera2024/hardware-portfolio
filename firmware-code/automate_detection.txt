@@ -1,0 +1,5 @@
+The port number for the Arduino path changes based on port for the MAC at least
+Note what might happen on windows or arch
+
+# Automatically finds whatever usbmodem is plugged in
+PORT ?= $(shell ls /dev/cu.usbmodem* 2>/dev/null | head -n 1)
